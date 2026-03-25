@@ -38,6 +38,10 @@ hatte man sich einst die S21-Inbetriebnahme vorgestellt. Bemerkenswert ist der S
 > Im Zuge dessen verliert der Kopfbahnhof seine Verbindung nach Bad Cannstatt und wird *obsolet*.
 > [...]
 
+## S-Bahn Baustellen 2026
+
+[Das](https://region-stuttgart.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZebcoXh3tjyUU720R3xN6-k) steht so alles 2026 an.
+
 ## Temporäre S-Bahn-Verlängerung nach Horb
 
 Als Ausgleich für den Wegfall der umsteigefreien Verbindung von der Gäubahn
