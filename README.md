@@ -20,6 +20,20 @@ Wenn du mehr Links hast, mach gerne einen PR auf.
 
 Unsortiert
 
+## Neue Fahrzeuge für die S-Bahn
+
+Man Plant die 423er zu ersetzen und will im Rahmen eines neuen Verkehrsvertrages neue Fahrzeuge anschaffen
+
+[Unterlagen des Verbands Region Stuttgart dazu](https://region-stuttgart.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXUtgJlWj2wA4Wo9M5K41YU)
+
+## Neue S-Bahn Projekte 
+
+Eine gute Übersicht über alle geplanten oder im Bau befindlichen S-Bahn Projekte gibt es beim
+[Verband Region Stuttgart](https://www.region-stuttgart.org/de/bereiche-aufgaben/s-bahn/netz-der-zukunft/)
+
+Dabei ist auch eine S5 von Vaihingen nach Vaihingen.
+
+
 ## Pfaffensteigtunnel
 
 In jeweils >500MB großen zip-Dateien gibt es die Planunterlagen:
