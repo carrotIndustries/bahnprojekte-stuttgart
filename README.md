@@ -57,6 +57,19 @@ hatte man sich einst die S21-Inbetriebnahme vorgestellt. Bemerkenswert ist der S
 
 [Das](https://region-stuttgart.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZebcoXh3tjyUU720R3xN6-k) steht so alles 2026 an.
 
+## S-Bahn Baustellen 2027
+
+Keine Stemmstreckensperrung! Dafür wird Backnang für ca. 2 Monate von Stuttgart abgeschnittenn sein. [Quelle](https://region-stuttgart.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZb3n5NvUhw1DBN8MkziBRHU)
+
+## S-Bahn nach Neuhausen auf den Fildern
+
+Die [neue S-Bahn-Strecke](https://region-stuttgart.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZds_UW7W4G6TQ78-FjwZciA) nach Neuhausen auf den Fildern.
+Soll teil des digitalen Knotens Stuttgart werden. Der Plan scheint grob zu sein, dass die SSB (ja, tatsächlich) die Strecke
+ohne jegliche Sicherungstechnik fertig baut und dann an DB Infrago übergibt, die dann ETCS für den digitalen Knoten Stuttgart
+einbauen.
+
+> Es handelt sich um einen deutschlandweit bisher einmaligen Sachverhalt.
+
 ## Temporäre S-Bahn-Verlängerung nach Horb
 
 Als Ausgleich für den Wegfall der umsteigefreien Verbindung von der Gäubahn
