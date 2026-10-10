@@ -38,8 +38,9 @@ Dabei ist auch eine S5 von Vaihingen nach Vaihingen.
 
 In jeweils >500MB großen zip-Dateien gibt es die Planunterlagen:
 
- - [PFA2](https://beteiligung.bund.de/DE/VorhabenFindenUndBeteiligen/Details/Beteiligung.html?id=V-E100425&idb=B-E100425-01)
+ - [PFA2](https://beteiligung.bund.de/DE/VorhabenFindenUndBeteiligen/Details/Beteiligung.html?id=V-E100425&idb=B-E100425-03) (gab ein Update am 6.10.2026)
  - [PFA1](https://beteiligung.bund.de/DE/VorhabenFindenUndBeteiligen/Details/Vorhaben.html?id=V-E100884)
+ - [PFA3](https://beteiligung.bund.de/DE/VorhabenFindenUndBeteiligen/Details/Beteiligung.html?id=V-E101371&idb=B-E101371-01)
  
 Die Stadt Böblingen hat auch [Meinungen dazu](https://boeblingen-sitzungsdienst.komm.one/bi/getfile.asp?id=252084&type=do)
 
